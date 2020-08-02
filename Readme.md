@@ -264,3 +264,12 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 <img src="https://im.haberturk.com/2018/05/03/ver1552558838/2366092_1024x576.jpg" alt="Düsseldorf"/>
 
 _A photo from Düsseldorf_# Markdown_Example
+
+
+# Emojis
+
+:+1:
+
+:dash:
+
+:heart:
