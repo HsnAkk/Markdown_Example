@@ -1,5 +1,16 @@
 <!-- 
 1. Headers 
+2. Emphasis
+3. write a text
+4. Lists
+5. Images
+6. Links
+7. Code
+8. Blockquotes
+9. Tables
+10. Horizontal Rule
+11. Inline HTML
+12. Emojis
 -->
 
 # Heading1
